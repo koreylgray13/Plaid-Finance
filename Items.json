@@ -1,0 +1,39 @@
+{
+    "Accounts": [
+      {
+        "Name": "Chase",
+        "access_token": "",
+        "item_id": ""
+      },
+
+      {
+        "Name": "Chime",
+        "access_token": "",
+        "item_id": ""
+      },
+
+      {
+        "Name": "Huntington",
+        "access_token": "",
+        "item_id": ""
+      },
+
+      {
+        "Name": "Discover",
+        "access_token": "",
+        "item_id": ""
+      },
+
+      {
+        "Name": "Amazon",
+        "access_token": "",
+        "item_id": ""
+      },
+
+      {
+        "Name": "Shell",
+        "access_token": "",
+        "item_id": ""
+      }
+    ]
+  }
