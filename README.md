@@ -10,5 +10,8 @@ This project connects to the API and stores all financial data in local DB (I've
 
 ![image](https://user-images.githubusercontent.com/87346809/203384596-8ea3dd22-11f6-43c6-8369-b87be67e5683.png)
 
+Work In Progress GUI
+![Bolt-GUI](https://user-images.githubusercontent.com/87346809/204568657-31d47620-2cb4-423e-b89c-86df735abe83.png)
+
 
 Still considering JS or PyScript for additional functionality. Any comments or feedback is welcome!
